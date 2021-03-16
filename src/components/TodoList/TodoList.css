@@ -1,0 +1,8 @@
+.list-group-item {
+  margin: 10px;
+  color:red;
+}
+.line{
+  margin: 10px;
+  text-decoration:line-through;
+}
